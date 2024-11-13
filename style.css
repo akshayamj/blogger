@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+}
+
+.class1 {
+  background-color: #bc382e;
+  height: 800px;
+  background-image: url("./img/spoon.png"), url("./img/mixer.png"),
+    url("./img/cooker.png"), url("./img/cherry.png"),
+    url("./img/cookingblog.png"), url("./img/rollover.png"),
+    url("./img/shape.png"), url("./img/pie.png");
+  background-size: 250px 250px, 250px 250px, 250px 250px, 100px 100px,
+    700px 450px, 250px 250px, 250px 220px, 250px 250px;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat,
+    no-repeat, no-repeat, no-repeat;
+  background-position: -57px 147px, -57px 327px, -57px 550px, 350px 265px,
+    400px 353px, 1310px 148px, 1210px 324px, 1300px 550px;
+}
+
+.a {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.o {
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: #ff8000;
+  padding: 20px 20px;
+  margin-left: 677px;
+  margin-right: 690px;
+  margin-top: 71px;
+}
+
+h1,
+h3,
+p {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+/* .section .background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+} */
+
+/* h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+} */
+
+.class2 {
+  background-color: #ff8000;
+  height: 500px;
+  background-image: url("./img/tools.png"), url("./img/card.png"),
+    url("./img/template.png");
+  background-size: 500px 150px, 800px 700px, 800px 700px;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: 700px 50px, 1000px 100px, 912px 34px;
+}
+
+.b {
+  width: 516px;
+  padding-top: 150px;
+  padding-left: 165px;
+  font-size: 40px;
+}
+
+.m {
+  width: 600px;
+  padding-left: 148px;
+  padding-top: 31px;
+  font-size: 20px;
+}
+
+.class3 {
+  background-color: #bc382e;
+  height: 600px;
+  background-image: url("./img/letter-group.png"), url("./img/letter-u.png"),
+    url("./img/letter-y.png"), url("./img/letter-w.png");
+  background-size: 1277px 268px, 827px 368px, 400px 350px, 400px 515px;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: 754px 188px, 953px 261px, 1276px 250px, 1416px 70px;
+}
+
+.c {
+  width: 500px;
+  padding-left: 175px;
+  padding-top: 226px;
+  font-size: 40px;
+}
+
+.n {
+  width: 500px;
+  padding-left: 175px;
+  padding-top: 30px;
+}
+
+.class4 {
+  background-color: rgb(0, 161, 137);
+  height: 600px;
+  background-image: url("./img/phonetab.png"), url("./img/debit.png"),
+    url("./img/calculator.png"), url("./img/dollar.png");
+  background-size: 600px 500px, 300px 300px, 300px 300px, 126px 120px;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: 0px 45px, 1023px 300px, 1275px 400px, 1402px 244px;
+}
+
+.d {
+  width: 500px;
+  padding-left: 722px;
+  padding-top: 149px;
+  font-size: 50px;
+}
+
+.p {
+  width: 500px;
+  padding-left: 705px;
+  padding-top: 22px;
+}
+
+.class5 {
+  background-color: #495e67;
+  height: 600px;
+  background-image: url("./img/graphs.png"), url("./img/blue\ map.png"),
+    url("./img/chart.png"), url("./img/histogram.png");
+  background-size: 390px 290px, 415px 311px, 415px 300px, 415px 300px;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position: 1396px 2px, 997px -6px, 1396px 295px, 999px 298px;
+}
+
+.e {
+  width: 500px;
+  padding-left: 173px;
+  padding-top: 180px;
+}
+
+.q {
+  width: 500px;
+  padding-left: 172px;
+  padding-top: 50px;
+}
+
+.class6 {
+  background-color: #bc382e;
+  height: 600px;
+  background-image: url("./img/document.png"), url("./img/family\ photo.png"),
+    url("./img/play\ icon.png");
+  background-size: 394px 320px, 300px 300px, 350px 350px;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: 1216px 150px, 1003px 93px, 764px 234px;
+}
+
+.f {
+  width: 500px;
+  padding-left: 165px;
+  padding-top: 264px;
+}
+
+.r {
+  width: 500px;
+  padding-left: 163px;
+  padding-top: 40px;
+}
+
+.class7 {
+  background-color: #ff8000;
+  height: 600px;
+  background-image: url("./img/millions-map_2x.png"),
+    url("./img/millions-markers_2x.png");
+  background-size: 1769px 1200px;
+  background-repeat: no-repeat;
+  /* background-position: 1000px 100px; */
+}
+
+.g {
+  width: 500px;
+  padding-left: 518px;
+  padding-top: 190px;
+  font-size: 45px;
+}
+
+.s {
+  width: 500px;
+  padding-left: 511px;
+  padding-top: 60px;
+  font-size: 20px;
+}
